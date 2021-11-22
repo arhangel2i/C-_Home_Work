@@ -15,5 +15,5 @@
 
 Комманда|Описание|Дополнительная информация
 :-|:-|:-
-**<span style="color:SteelBlue">Console.WriteLine(variable)</span>**|*Выводит переменную на экран консоли c переносом строки*|
-**<span style="color:SteelBlue">Console.Write(variable)</span>**|*Выводит переменную на экран консоли без переноса строки*|
+**<span style="color:SteelBlue;">Console.WriteLine(variable)</span>**|*Выводит переменную на экран консоли c переносом строки*|
+**<span style="color:SteelBlue;">Console.Write(variable)</span>**|*Выводит переменную на экран консоли без переноса строки*|
