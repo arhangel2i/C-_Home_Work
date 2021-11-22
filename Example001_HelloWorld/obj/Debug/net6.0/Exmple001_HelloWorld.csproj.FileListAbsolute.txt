@@ -1,0 +1,15 @@
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.exe
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.deps.json
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.runtimeconfig.json
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.dll
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\ref\Exmple001_HelloWorld.dll
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\bin\Debug\net6.0\Exmple001_HelloWorld.pdb
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.csproj.AssemblyReference.cache
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.AssemblyInfoInputs.cache
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.AssemblyInfo.cs
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.csproj.CoreCompileInputs.cache
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.dll
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\ref\Exmple001_HelloWorld.dll
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.pdb
+D:\Для учебы\Рабочая папка\Уроки_программирования\001\Examples\Exmple001_HelloWorld\obj\Debug\net6.0\Exmple001_HelloWorld.genruntimeconfig.cache
